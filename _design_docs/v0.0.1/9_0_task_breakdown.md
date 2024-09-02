@@ -1,6 +1,7 @@
 # Revised Task Breakdown
 
 1. Project Setup
+   - Install rust/cargo
    - Initialize Rust project with Cargo
    - Set up version control (git)
    - Configure development environment

@@ -1,0 +1,57 @@
+
+# 2024-09-02 03:46:12.663352
++Create a new Rust project named 'habit_tracker_app' using Cargo. Show me the command to run and the expected output.
+
+# 2024-09-02 03:46:24.055117
++/run cargo new habit_tracker_app
+
+# 2024-09-02 03:46:34.956429
++/run ls -R habit_tracker_app
+
+# 2024-09-02 03:46:44.711483
++/run cat habit_tracker_app/src/main.rs
+
+# 2024-09-02 03:47:20.314654
++/run install cargo
+
+# 2024-09-02 03:47:42.086892
++/help how do I install a build tool
+
+# 2024-09-02 04:14:26.501099
++Initialize Rust project with Cargo
+
+# 2024-09-02 04:14:49.800057
++/run cargo build
+
+# 2024-09-02 04:15:36.201787
++Open the Cargo.toml file and update the package name to 'habit_tracker_app'.
+
+# 2024-09-02 04:16:09.597136
++/run cargo build
+
+# 2024-09-02 04:16:46.031194
++Set the version in Cargo.toml to '0.1.0'
+
+# 2024-09-02 04:17:04.826808
++Add 'Jason Goodwin' as the author in Cargo.toml.
+
+# 2024-09-02 04:17:18.341045
++/run cargo build
+
+# 2024-09-02 04:17:33.378683
++Add the iced dependency to Cargo.toml with version '0.9'.
+
+# 2024-09-02 04:17:43.770303
++/run cargo build
+
+# 2024-09-02 04:18:21.710357
++Add the rusqlite dependency to Cargo.toml with version '0.29' and the feature 'bundled'.
+
+# 2024-09-02 04:28:40.453560
++/run cargo build
+
+# 2024-09-02 04:28:59.590642
++Add the tray-icon dependency to Cargo.toml with version '0.5'
+
+# 2024-09-02 04:29:18.304915
++/run cargo build
