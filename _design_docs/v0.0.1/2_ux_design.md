@@ -1,6 +1,5 @@
 # Ux Design
-![Alt text](https://github.com/jasongoodwin/BlinkFlow/blob/main/v0.0.1/2_ux_design_main_screen_break_ui.svg) 
-![Alt text](3_ux_design_main_screen_break_ui.svg)
+![Alt text](https://github.com/jasongoodwin/BlinkFlow/blob/main/_design_docs/v0.0.1/2_ux_design_main_screen_break_ui.svg) 
 # Flow
 
 ```mermaid
