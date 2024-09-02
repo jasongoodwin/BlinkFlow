@@ -5,3 +5,4 @@ edition = "2021"
 authors = ["Jason Goodwin"]
 
 [dependencies]
+iced = "0.9"
